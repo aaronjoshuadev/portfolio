@@ -10,9 +10,9 @@
         </div>
       <div class="space-y-8 text-center md:text-left px-10">
         <p class="text-5xl font-bold md:text-5xl text-white fadein-up left px-1">Get in touch, let's talk</p>
-        <p class="text-1xl md:text-1xl text-white fadein-up left px-1">Feel free to send me an <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBpRcwqzrTVqxMmdKFjMTFCfhjvVVwKKNNSpZZfrnVpvVwfMBqtBDRTdrrlmpffbzcRcVKp"><u><b>email</b></u></a> if you have any questions,
+        <p class="text-1xl md:text-1xl text-white fadein-up left px-1">Feel free to send me an <a href="mailto:aaronjoshua.dlacruz@gmail.com"><u><b>email</b></u></a> if you have any questions,
         <br>concerns, or simply want to get in touch.</p>
-        <p class="text-1xl font-bold md:text-1xl text-white fadein-up left px-1"><a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBpRcwqzrTVqxMmdKFjMTFCfhjvVVwKKNNSpZZfrnVpvVwfMBqtBDRTdrrlmpffbzcRcVKp">aaronjoshua.dlacruz@gmai.com</a>
+        <p class="text-1xl font-bold md:text-1xl text-white fadein-up left px-1"><a href="mailto:aaronjoshua.dlacruz@gmail.com">aaronjoshua.dlacruz@gmail.com</a>
         </p>
       </div>
 

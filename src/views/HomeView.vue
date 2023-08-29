@@ -8,6 +8,7 @@
 
       </div>
       <p class="text-white pr-4 fade-in-from-left">I'm Aaron Joshua. A 20-year-old Aspiring <b>Front-end Developer</b><br> based in Quezon City, Philippines. <span class="wave">👋🏼</span></p>
+      <!-- Resume Button
       <br>
        <button
         class="fadein-bot fade-500 flex items-center py-2 px-4 mx-auto text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 md:mx-0 text-gray-200 border-gray-200 hover:bg-gray-300 hover:bg-opacity-10 bg-transparent focus:outline-none w-fit"><svg
@@ -19,6 +20,7 @@
             d="M14.25 5.25a5.23 5.23 0 00-1.279-3.434 9.768 9.768 0 016.963 6.963A5.23 5.23 0 0016.5 7.5h-1.875a.375.375 0 01-.375-.375V5.25z">
           </path>
         </svg>Download Resume</button> 
+         -->    
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
         class="w-10/12 md:h-auto rounded-full border-4 border-gray-500 pict" img src="/img/ppic.jpg">
