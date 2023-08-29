@@ -2,10 +2,13 @@
   <main
     class="mt-10 md:mt-1 flex flex-col-reverse gap-8 items-center md:flex-row md:gap-16 md:justify-center min-h-[65vh] md:min-h-[80vh]">
     <div class="space-y-2 text-center md:text-left px-10">
-      <p class="text-gray-300 fadein-up">Hello World!</p>
+     
       <h1 class="text-4xl font-bold md:text-5xl text-white fadein-up">Front-End Deveveloper</h1>
       <div class="py-2">
-
+        <p class="text-2xl text-gray-300 fadein-up">Hello World!</p>
+      </div>
+      <div class="py-2">
+        
       </div>
       <p class="text-white pr-4 fade-in-from-left">I'm Aaron Joshua. A 20-year-old Aspiring <b>Front-end Developer</b><br> based in Quezon City, Philippines. <span class="wave">👋🏼</span></p>
       <!-- Resume Button
