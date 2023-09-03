@@ -63,7 +63,7 @@ export default {
         {
           id: 2,
           name: 'GitHub',
-          imageUrl: '/techstack-img/github.png',
+          imageUrl: '/techstack-img/github-logo.png',
           status: 'Git Hosting'
         },
       ]
@@ -122,11 +122,11 @@ export default {
           <ul class="flex flex-wrap text-sm font-medium text-center text-gray-500 dark:text-gray-400 mb-5">
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-gray-500 bg-gray-500 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Technology Stack</button>
+                :class="{ 'text-gray-200 bg-gray-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Technology Stack</button>
             </li>
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-gray-500 bg-gray-500 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Tools</button>
+                :class="{ 'text-gray-200 bg-gray-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Tools</button>
             </li>
           </ul>
         </div>

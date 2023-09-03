@@ -10,7 +10,7 @@ export default {
           imageUrl: 'portfolio',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://youtu.be/dQw4w9WgXcQ?feature=shared',
+          github: 'https://github.com/aaronjoshuadelacruz/portfolio.git',
           demo: 'https://aaronjoshua.netlify.app/'
         },
         {
@@ -20,7 +20,7 @@ export default {
           status: 'The BMI Calculator is a web-based application designed to help users assess their Body Mass Index quickly and accurately.',
           tech: 'HTML, CSS, JavaScript',
           github: 'null',
-          demo: 'https://youtu.be/dQw4w9WgXcQ?feature=shared'
+          demo: 'null'
         },
         {
           id: 3,
@@ -29,7 +29,7 @@ export default {
           status: 'Tic Tac Toe Game made in HTML, CSS, and JavaScript. This game is made for fun and to test my skills in JavaScript.',
           tech: 'HTML, CSS, JavaScript',
           github: 'null',
-          demo: 'https://youtu.be/dQw4w9WgXcQ?feature=shared'
+          demo: 'null'
         }
       ]
     };
