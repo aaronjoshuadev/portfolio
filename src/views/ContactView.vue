@@ -27,8 +27,5 @@
 p {
   margin: 60px 15px 40px;
 }
-.container{
-  background-color: aliceblue;
-}
 
 </style>
