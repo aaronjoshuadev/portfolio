@@ -5,12 +5,12 @@
      
       <h1 class="text-4xl font-bold md:text-5xl text-white fadein-up">Front-End Deveveloper</h1>
       <div class="py-2">
-        <p class="text-2xl text-gray-300 fadein-up">Hello World!</p>
+        <p class="text-2xl text-gray-300 fadein-up">Hello <span class="wave">👋🏼</span></p>
       </div>
       <div class="py-2">
         
       </div>
-      <p class="text-white pr-4 fade-in-from-left">I'm Aaron Joshua. A 20-year-old Aspiring <b>Front-end Developer</b><br> based in Quezon City, Philippines. <span class="wave">👋🏼</span></p>
+      <p class="text-white pr-4 fade-in-from-left">I'm Aaron Joshua Dela Cruz. A 20-year-old Aspiring <b>Front-end Developer</b><br> based in Quezon City, Philippines.</p>
       <!-- Resume Button
       <br>
        <button
@@ -23,12 +23,17 @@
             d="M14.25 5.25a5.23 5.23 0 00-1.279-3.434 9.768 9.768 0 016.963 6.963A5.23 5.23 0 0016.5 7.5h-1.875a.375.375 0 01-.375-.375V5.25z">
           </path>
         </svg>Download Resume</button> 
-         -->    
+         -->      
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
         class="w-10/12 md:h-auto rounded-full border-4 border-gray-500 pict" img src="/img/ppic.jpg">
     </div>
   </main>
+  <div>
+    <p class="py-12 text-center text-5xl md:text-left px-12 text-9xl font-bold md:text-9xl text-white fadein-up left px-1">Blog <br>Post</p>  
+    <p class="py-12 text-center text-5xl md:text-left px-12 text-9xl font-bold md:text-5xl text-white fadein-up left px-1">Working in progress</p> 
+    <p class="py-12 md:text-left px-12 md:text-2xl text-white fadein-up left px-1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque blanditiis molestiae ipsam cupiditate voluptates sit tenetur nobis, sunt commodi reiciendis quam maxime porro atque consequuntur soluta nulla totam incidunt cum?</p>
+  </div>
 </template>
 
 <style>

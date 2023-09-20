@@ -18,40 +18,53 @@ export default {
         },
         {
           id: 3,
-          name: 'PHP',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
-          status: 'Beginner'
-        },
-        {
-          id: 4,
           name: 'Javascript',
           imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
           status: 'Beginner'
         },
         {
-          id: 5,
+          id: 4,
           name: 'VueJS',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
           status: 'Beginner'
         },
         {
+          id: 5,
+          name: 'MongoDB',
+          imageUrl: 'http://pluspng.com/img-png/logo-mongodb-png-mongodb-1600.png',
+          status: 'Beginner'
+        },
+        {
           id: 6,
+          name: 'ExpressJS',
+          imageUrl: 'https://avatars0.githubusercontent.com/u/5658226?s=280&v=4',
+          status: 'Beginner'
+        },
+        {
+          id: 7,
+          name: 'ReactJS',
+          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
+          status: 'Beginner'
+        },
+        {
+          id: 8,
           name: 'NodeJS',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
           status: 'Beginner'
         },
         {
-          id: 7,
+          id: 9,
+          name: 'TailwindCSS',
+          imageUrl: 'https://www.shahriarkabir.com/wp-content/uploads/2022/02/Tailwind-CSS.jpg',
+          status: 'Beginner'
+        },
+        {
+          id: 10,
           name: 'Bootstrap',
           imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
           status: 'Intermediate'
-        },
-        {
-          id: 8,
-          name: 'ReactJS',
-          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
-          status: 'Beginner'
         }
+
       ],
       tools: [
         {
@@ -92,7 +105,7 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hello! I'm Aaron, an aspiring web developer and enthusiastic IT student.
+            &nbsp; &nbsp; &nbsp; Hello! I'm Aaron Joshua Dela Cruz, an aspiring web developer and enthusiastic IT student.
             I'm on a journey to explore the vast world of technology and carve my path in the digital realm. 
             I believe that the web is a canvas where creativity meets functionality, and I'm excited to bring my ideas to life through coding.
           </p>
@@ -108,7 +121,7 @@ export default {
     </article>
   </div>
 
-  <div class="px-5 py-5 md:px-12 md:py-10 text-left text-gray-50 mx-3">
+  <div class="px-5 py-5 md:px-12 md:py-10 text-left border border-[#383838] rounded-3xl text-gray-50 mx-3 mb-5">
     <article data-page="about">
       <header>
         <div class="text-2xl font-bold text-white mb-5 fadein-bot title-section flex items-center">

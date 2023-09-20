@@ -24,12 +24,12 @@ export default {
         },
         {
           id: 3,
-          name: 'Tic Tac Toe Game',
-          imageUrl: 'tictactoe',
-          status: 'Tic Tac Toe Game made in HTML, CSS, and JavaScript. This game is made for fun and to test my skills in JavaScript.',
+          name: 'Christmas Countdown',
+          imageUrl: 'christmascountdown',
+          status: 'I created a Christmas Countdown as a way to challenge and showcase my JavaScript skills.',
           tech: 'HTML, CSS, JavaScript',
-          github: 'null',
-          demo: 'null'
+          github: 'https://github.com/aaronjoshuadev/Christmas-Countdown.git',
+          demo: 'https://christmascountdownbyaaronjoshua.netlify.app/'
         }
       ]
     };
