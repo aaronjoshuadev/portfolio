@@ -11,7 +11,7 @@ export default {
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/aaronjoshuadelacruz/portfolio.git',
-          demo: 'https://aaronjoshua.netlify.app/'
+          demo: 'https://aaronjoshuadev.netlify.app/'
         },
         {
           id: 2,
