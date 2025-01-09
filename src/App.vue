@@ -9,7 +9,7 @@
         </button>
         <div class="flex md:order-2 fadein-bot">
         <!-- github icon -->
-          <a href="https://github.com/"><img class="w-6 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
+          <a href="https://github.com/"><img class="w-6 rounded-full" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github"></a>
         </div>
         
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">

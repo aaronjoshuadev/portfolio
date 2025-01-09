@@ -15,21 +15,12 @@ export default {
         },
         {
           id: 2,
-          name: 'BMI Calculator',
-          imageUrl: 'bmicalculator',
-          status: 'The BMI Calculator is a web-based application designed to help users assess their Body Mass Index quickly and accurately.',
-          tech: 'HTML, CSS, JavaScript',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 3,
           name: 'Christmas Countdown',
           imageUrl: 'christmascountdown',
           status: 'I created a Christmas Countdown as a way to challenge and showcase my JavaScript skills.',
           tech: 'HTML, CSS, JavaScript',
           github: 'https://github.com/aaronjoshuadev/Christmas-Countdown.git',
-          demo: 'https://christmascountdownbyaaronjoshua.netlify.app/'
+          demo: 'https://christmascountdownbyaaron.netlify.app/'
         }
       ]
     };

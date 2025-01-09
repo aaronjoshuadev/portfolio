@@ -10,7 +10,7 @@
       <div class="py-2">
         
       </div>
-      <p class="text-white pr-4 fade-in-from-left">I'm Aaron Joshua Dela Cruz. A 20-year-old Aspiring <b>Front-end Developer</b><br> based in Quezon City, Philippines.</p>
+      <p class="text-white pr-4 fade-in-from-left">I'm Aaron Joshua Maureal. A 21-year-old Aspiring <b>Front-end Developer</b><br> based in Quezon City, Philippines.</p>
       <!-- Resume Button
       <br>
        <button

@@ -30,36 +30,12 @@ export default {
         },
         {
           id: 5,
-          name: 'MongoDB',
-          imageUrl: 'http://pluspng.com/img-png/logo-mongodb-png-mongodb-1600.png',
-          status: 'Beginner'
-        },
-        {
-          id: 6,
-          name: 'ExpressJS',
-          imageUrl: 'https://avatars0.githubusercontent.com/u/5658226?s=280&v=4',
-          status: 'Beginner'
-        },
-        {
-          id: 7,
-          name: 'ReactJS',
-          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
-          status: 'Beginner'
-        },
-        {
-          id: 8,
-          name: 'NodeJS',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
-          status: 'Beginner'
-        },
-        {
-          id: 9,
           name: 'TailwindCSS',
           imageUrl: 'https://www.shahriarkabir.com/wp-content/uploads/2022/02/Tailwind-CSS.jpg',
           status: 'Beginner'
         },
         {
-          id: 10,
+          id: 6,
           name: 'Bootstrap',
           imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
           status: 'Intermediate'
@@ -105,9 +81,9 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hello! I'm Aaron Joshua Dela Cruz, an aspiring web developer and enthusiastic IT student.
-            I'm on a journey to explore the vast world of technology and carve my path in the digital realm. 
-            I believe that the web is a canvas where creativity meets functionality, and I'm excited to bring my ideas to life through coding.
+            &nbsp; &nbsp; &nbsp; Hi, I’m Aaron Joshua Maureal an aspiring web developer and passionate IT student with a deep curiosity for technology and innovation.
+            I’m driven by the belief that the best way to grow is by staying curious, experimenting, and embracing every opportunity to create something impactful.
+        
           </p>
           <p class="mb-3 fadein-left fadeins-2">
             &nbsp; &nbsp; &nbsp; My journey as an IT student and aspiring web developer is just beginning, and I'm excited to see where it takes me. 
